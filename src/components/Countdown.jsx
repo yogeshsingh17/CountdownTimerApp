@@ -57,7 +57,7 @@ function CountDown(){
                     Start
                 </button>
             </div>
-            {diff}
+            
             <div id='display'>
                 <ul>
                     <li>
