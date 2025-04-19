@@ -1,0 +1,49 @@
+#input{
+    border: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#submit{
+    padding: 0.3rem 1rem;
+    color: white;
+    background-color: cadetblue;
+    border: none;
+    margin-left: 1rem;
+}
+
+#display{
+    margin-top: 35px;
+    background-color: dodgerblue;
+    color: black;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+ul{
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+}
+
+li{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+li span{
+    display: block;
+}
+
+span{
+    font-size: 30px;
+}
